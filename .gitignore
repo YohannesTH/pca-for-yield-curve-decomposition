@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+*.mp4
+*.gif
+forecasted_factors.csv
+forecasted_yield_curves.csv
